@@ -1,0 +1,4 @@
+  "AadClientId": "34dc083f-6cf5-4938-86b8-1d84e058e47c",
+  "AadSecret": "B5l8Q~lhuumBqO9l5c7FbMOm5oQOydro4FCNSayu",
+  "AadTenantDomain": "globaltoyoeng.onmicrosoft.com",
+  "AadTenantId": "9999b281-cd82-4909-a1d9-5b075ecf4080",
